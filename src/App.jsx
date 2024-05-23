@@ -1,11 +1,12 @@
-import "./App.css";
-import Singin from "./Components/SigninPage/Singin";
-import Main from "./Components/MainPage/Main"
+
+import Signin from "./Components/SigninPage/Singin";
+
+
 function App() {
   return (
     <>
-      <Singin />
-     
+  
+     <Signin/>
     </>
   );
 }
